@@ -1,0 +1,145 @@
+# Log file created/rotated Sunday, 17 Jan 21 12:44:19 GMT
+2021-01-17 12:44:19 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 12:44:23 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 13:05:50 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 13:05:50 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 13:35:58 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 13:35:58 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 13:44:23 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 13:44:27 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 14:06:05 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 14:06:05 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 14:36:12 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 14:36:12 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 14:44:27 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 14:44:31 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 15:06:18 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 15:06:18 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 15:36:25 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 15:36:25 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 15:44:31 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 15:44:35 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 16:06:33 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 16:06:33 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 16:36:40 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 16:36:40 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 16:44:35 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 16:44:39 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 17:06:47 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 17:06:47 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 17:36:53 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 17:36:53 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 17:44:39 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 17:44:43 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 18:07:00 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 18:07:00 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 18:37:06 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 18:37:06 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 18:44:43 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 18:44:47 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 19:07:13 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 19:07:13 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 19:37:19 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 19:37:19 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 19:44:47 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 19:44:51 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 20:07:25 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 20:07:25 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 20:37:31 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 20:37:31 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 20:44:51 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 20:44:55 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 21:07:39 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 21:07:39 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 21:37:46 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 21:37:46 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 21:44:55 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 21:44:59 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 22:07:52 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 22:07:52 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 22:37:59 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 22:37:59 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 22:44:59 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 22:45:03 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-17 23:08:07 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 23:08:07 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 23:38:14 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-17 23:38:14 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-17 23:45:03 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-17 23:45:07 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 00:08:21 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 00:08:21 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 00:38:28 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 00:38:28 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 00:45:07 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 00:45:11 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 01:08:35 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 01:08:35 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 01:38:42 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 01:38:42 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 01:45:11 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 01:45:15 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 02:08:49 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 02:08:49 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 02:38:56 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 02:38:56 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 02:45:15 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 02:45:19 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 03:09:03 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 03:09:03 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 03:39:11 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 03:39:11 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 03:45:19 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 03:45:23 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 04:09:18 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 04:09:18 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 04:39:26 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 04:39:26 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 04:45:23 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 04:45:27 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 05:09:33 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 05:09:33 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 05:39:40 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 05:39:40 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 05:45:27 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 05:45:31 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 06:09:46 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 06:09:46 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 06:39:52 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 06:39:52 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 06:45:31 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 06:45:35 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 07:09:58 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 07:09:58 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 07:40:05 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 07:40:05 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 07:45:35 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 07:45:39 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 08:10:11 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 08:10:11 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 08:40:17 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 08:40:17 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 08:45:39 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 08:45:43 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 09:10:23 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 09:10:23 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 09:40:29 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 09:40:29 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 09:45:43 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 09:45:47 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 10:10:35 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 10:10:35 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 10:40:42 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 10:40:42 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 10:45:47 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 10:45:51 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 11:10:48 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 11:10:48 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 11:40:54 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 11:40:54 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 11:45:51 [51768 - 44] [Information] CA bundle is empty; skipping
+2021-01-18 11:45:55 [51768 - 44] [Error] Metrics upload failed: posting to https://www.speedtest.net/api/servers/metrics
+2021-01-18 12:11:00 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 12:11:00 [51768 - 45] [Error] Server Updater: Cannot download binary version.
+2021-01-18 12:41:07 [51768 - 45] [Error] Downloader: Cannot download data, error: Host not found: www.speedtest.net
+2021-01-18 12:41:07 [51768 - 45] [Error] Server Updater: Cannot download binary version.
